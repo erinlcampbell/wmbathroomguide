@@ -1,0 +1,22 @@
+*{
+    
+    font-family: Noto Sans, sans-serif;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+.building {
+    border: 1.5px solid gold;
+    
+}
+
+.item {
+    border: 1px solid darkgreen;
+    color: darkolivegreen
+}
+
+.underline{
+    text-decoration-line: underline;
+}
