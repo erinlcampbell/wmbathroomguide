@@ -4,7 +4,7 @@
 }
 
 h1 {
-    color: darkgreen;
+    color: white;
 }
 
 .building {
@@ -13,10 +13,52 @@ h1 {
 }
 
 .item {
-    border: 1px solid darkgreen;
-    color: darkolivegreen
+    
+    color: darkolivegreen;
+    padding-left: 15px;
 }
 
 .underline{
     text-decoration-line: underline;
+}
+
+#introduction{
+    padding-top: 20px;
+    margin-left: 20px;
+}
+
+img{
+    width: 100px;
+    height:100px;
+}
+
+header{
+    padding-bottom: 10px;
+   
+    width: 100%;
+    z-index: 5;
+    background-color: darkgreen;
+
+    
+}
+
+#newcampus{
+    margin-left: 20px;
+}
+
+#oldcampus{
+    margin-left: 20px;
+}
+
+a{
+    color: #d0a703
+}
+
+.building {
+    margin-bottom: 15px;
+    padding-left:15px;
+}
+
+.area-name{
+    color: black;
 }
